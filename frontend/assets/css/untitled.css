@@ -1,0 +1,36 @@
+p {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 100px;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+}
+
+button, input {
+  border-radius: 20px;
+  border-color: rgb(64,241,124);
+}
+
+p {
+}
+
+.btn:not(:disabled):not(.disabled) {
+  border-radius: 20px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  background-color: rgb(64,241,124);
+}
+
+.btn:not(:disabled):not(.disabled) {
+  margin-top: 10px;
+}
+
+.row {
+  padding-bottom: -;
+}
+

@@ -1,0 +1,42 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="{% static "luna/assets/bootstrap/css/bootstrap.min.css"%}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich">
+    <link rel="stylesheet" href="{% static "luna/assets/fonts/fontawesome-all.min.css"%}">
+    <link rel="stylesheet" href="{% static "luna/assets/fonts/font-awesome.min.css"%}">
+    <link rel="stylesheet" href="{% static "luna/assets/fonts/fontawesome5-overrides.min.css"%}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="{% static "luna/assets/css/Login-Form-Clean-1.css"%}">
+    <link rel="stylesheet" href="{% static "luna/assets/css/Login-Form-Clean.css"%}">
+    <link rel="stylesheet" href="{% static "luna/assets/css/untitled.css"%}">
+</head>
+
+<body>
+    <div  style="background-color: rgb(0,0,0);font-family: Aldrich; text-align: center; background-image: url('{% static "luna/assets/img/Black-Background-Picture.png"%}');" >
+        <form method="POST" style="background-color: rgb(0,0,0);">
+        {% csrf_token %}
+            <h2 class="sr-only">Sign Up Form</h2>
+            <h1 style="font-family: Aldrich, sans-serif;">SIGN UP</h1>
+         
+            {{ form|crispy}}
+            <div
+                class="form-group"><button class="btn btn-primary btn-block" type="submit">Sign Up</button></div><a class="forgot" href="#">Forgot your email or password?</a></form>
+    </div>
+    <script src="{% static "luna/assets/js/jquery.min.js"%}"></script>
+    <script src="{% static "luna/assets/bootstrap/js/bootstrap.min.js"%}"></script>
+    <script src="{% static "luna/assets/js/bs-init.js"%}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script src="{% static "luna/assets/js/grayscale.js"%}"></script>
+</body>
+
+</html>

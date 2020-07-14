@@ -1,0 +1,92 @@
+{% load  static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>LUNA.AI</title>
+    <link rel="stylesheet" href="{% static "luna/assets/bootstrap/css/bootstrap.min.css" %}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich">
+    <link rel="stylesheet" href="{% static "luna/assets/fonts/font-awesome.min.css" %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="{% static "luna/assets/css/untitled.css" %}">
+</head>
+
+<body id="page-top">
+    <nav class="navbar navbar-light navbar-expand-md navbar navbar-expand-lg fixed-top" id="mainNav" style="font-family: Aldrich, sans-serif;">
+        <div class="container"><a class="navbar-brand js-scroll-trigger" href="#" style="font-family: Aldrich, sans-serif;">ACE.AI</a><button data-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-target="#navbarResponsive" type="button" aria-controls="navbarResponsive"
+                aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-bars"></i></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link active js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="#download">try it out</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="#contact">contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="masthead" style="background-image:url('{% static "luna/assets/img/intro-bg.jpg" %}');">
+        <div data-aos="fade-up" class="intro-body" style="filter: blur(0px) brightness(200%) contrast(80%) grayscale(47%) hue-rotate(136deg) invert(0%) saturate(200%) sepia(0%);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <h1 data-aos="fade-up" class="brand-heading" style="font-family: Aldrich, sans-serif;">ACE.AI</h1>
+                        <p class="intro-text" style="font-family: Aldrich, sans-serif;">solving real world problems. one epoch at a time</p><a class="btn btn-link btn-circle" role="button" href="#about" style="background-color: rgb(0,0,0);"><i class="fa fa-angle-down animated"></i></a></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section id="about" class="content-section text-center">
+        <div class="container">
+            <div class="row" data-aos="fade-up">
+                <div class="col-lg-8 mx-auto" data-aos="fade-up" style="font-family: Aldrich, sans-serif;">
+                    <h2 style="font-family: Aldrich, sans-serif;">About ACE.AI</h2>
+                    <p style="height: 190px;">it’s a challenge for employers to communicate well with all their candidates. For high volume recruiting, this would require&nbsp; communicating with thousands of candidates, in addition to a recruiter’s normal screening functions
+                        and other duties. Artificial Intelligence enabled software bots can definitely provide a solution for this problem.<br><br><br><br></p>
+                    <p></p>
+                    <p>ACE.AI is a chatbot that we created to aid this purpose as part of our IBM HackChallenge 2020</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="download" class="download-section content-section text-center" style="background-image:url('{% static "luna/assets/img/downloads-bg.jpg" %}');">
+        <div class="container">
+            <div class="col-lg-8 mx-auto" data-aos="fade-up">
+                <h1 style="font-family: Aldrich, sans-serif;">VISIT the chat bot</h1>
+
+                <p style="font-family: Aldrich, sans-serif;">Try out the Web App here .<br>A Native App is in the Production</p><a href="botpage"><button class="btn btn-primary btn-lg btn-default" type="button" style="font-family: Aldrich, sans-serif;color: rgb(3,3,3);">visit ACE.AI</button></a></div>
+        </div>
+    </section>
+    <section id="contact" class="content-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto" data-aos="fade" style="font-family: Aldrich, sans-serif;">
+                    <h2 style="font-family: Aldrich, sans-serif;">Contact us</h2>
+                    <p>Feel free to leave a comment or recommend ACE.AI<br>Contact us Below</p>
+                    <ul class="list-inline banner-social-buttons">
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button" style="color: rgb(16,16,16);"><i class="fa fa-linkedin fa-fw"></i><span class="network-name">&nbsp;Linkedin</span></button></li>
+                        <li class="list-inline-item">&nbsp;</li>
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button" style="color: rgb(14,14,14);"><i class="fa fa-github fa-fw"></i><span class="network-name">&nbsp;github</span></button></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="map-clean"></div>
+    <footer>
+        <div class="container text-center">
+            <p data-aos="zoom-in" style="font-family: Aldrich, sans-serif;">Copyright © LUNA.AI 2020</p>
+        </div>
+    </footer>
+    <script src="{% static "luna/assets/js/jquery.min.js" %}"></script>
+    <script src="{% static "luna/assets/bootstrap/js/bootstrap.min.js" %}"></script>
+    <script src="{% static "luna/assets/js/bs-init.js" %}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script src="{% static "luna/assets/js/grayscale.js" %}"></script>
+</body>
+
+</html>
