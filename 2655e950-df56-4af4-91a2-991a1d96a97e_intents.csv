@@ -1,0 +1,492 @@
+Sweet,Bot_Control_Approve_Response
+That is precisely what I was looking for,Bot_Control_Approve_Response
+That is right,Bot_Control_Approve_Response
+That is the proper response.,Bot_Control_Approve_Response
+That is what I need,Bot_Control_Approve_Response
+That's exactly what I want,Bot_Control_Approve_Response
+This is alright,Bot_Control_Approve_Response
+Very well. Let's do it.,Bot_Control_Approve_Response
+"Yeah, that's it!",Bot_Control_Approve_Response
+Yes,Bot_Control_Approve_Response
+You read my mind,Bot_Control_Approve_Response
+Affirmative. That's what I'm looking for.,Bot_Control_Approve_Response
+All right,Bot_Control_Approve_Response
+Correct,Bot_Control_Approve_Response
+For sure!,Bot_Control_Approve_Response
+Got it,Bot_Control_Approve_Response
+Great,Bot_Control_Approve_Response
+I agree,Bot_Control_Approve_Response
+I like that,Bot_Control_Approve_Response
+Indeed!,Bot_Control_Approve_Response
+Sure thing!,Bot_Control_Approve_Response
+I don't understand what you're saying,Bot_Control_Clarification
+I need more information,Bot_Control_Clarification
+"Let's try to say that again more clearly, shall we?",Bot_Control_Clarification
+What are you referring to?,Bot_Control_Clarification
+What are you saying?,Bot_Control_Clarification
+What are you talking about?,Bot_Control_Clarification
+What do you mean by that?,Bot_Control_Clarification
+What do you mean?,Bot_Control_Clarification
+Can you say that again please?,Bot_Control_Clarification
+Come again?,Bot_Control_Clarification
+Explains,Bot_Control_Clarification
+I did not quite understand what you gave me,Bot_Control_Clarification
+I didn't catch that,Bot_Control_Clarification
+I didn't quite understand what you said,Bot_Control_Clarification
+I didn't understand that properly,Bot_Control_Clarification
+I don't get it,Bot_Control_Clarification
+I don't understand,Bot_Control_Clarification
+Anyone there?,Bot_Control_Confirm_Presence
+You around?,Bot_Control_Confirm_Presence
+Speak to me if you are there.,Bot_Control_Confirm_Presence
+Is anybody home?,Bot_Control_Confirm_Presence
+Is anybody here?,Bot_Control_Confirm_Presence
+Where'd you go?,Bot_Control_Confirm_Presence
+I am still holding,Bot_Control_Confirm_Presence
+Are you on?,Bot_Control_Confirm_Presence
+Are you leaving me?,Bot_Control_Confirm_Presence
+Did you hear what I said?,Bot_Control_Confirm_Presence
+Did you go somewhere?,Bot_Control_Confirm_Presence
+Are you there?,Bot_Control_Confirm_Presence
+Are you still here with me?,Bot_Control_Confirm_Presence
+Are you still around?,Bot_Control_Confirm_Presence
+Have I lost you?,Bot_Control_Confirm_Presence
+Am I talking to someone?,Bot_Control_Confirm_Presence
+Not yet,Bot_Control_Ignore_Undo
+Wait! Let's back up few steps and do that again,Bot_Control_Ignore_Undo
+Nothing,Bot_Control_Ignore_Undo
+Never,Bot_Control_Ignore_Undo
+Never mind,Bot_Control_Ignore_Undo
+Let us redo that again!,Bot_Control_Ignore_Undo
+It's not what I mean,Bot_Control_Ignore_Undo
+Ignore this,Bot_Control_Ignore_Undo
+"I didn't mean to do that actually, let's go back",Bot_Control_Ignore_Undo
+I did not mean that?,Bot_Control_Ignore_Undo
+I change my mind.,Bot_Control_Ignore_Undo
+Hold on! I think I want to do it differently.,Bot_Control_Ignore_Undo
+Cancel,Bot_Control_Ignore_Undo
+"Actually, I take that back",Bot_Control_Ignore_Undo
+I don't want that,Bot_Control_Reject_Response
+That answer is incorrect,Bot_Control_Reject_Response
+That is not true,Bot_Control_Reject_Response
+That sounds like the wrong response,Bot_Control_Reject_Response
+That was not my intent,Bot_Control_Reject_Response
+"That was wrong, try again",Bot_Control_Reject_Response
+Wrong response,Bot_Control_Reject_Response
+You did not understand what I asked,Bot_Control_Reject_Response
+You did not understand what I said,Bot_Control_Reject_Response
+You didn't understand me,Bot_Control_Reject_Response
+You're misunderstanding me,Bot_Control_Reject_Response
+It is not what I was looking for,Bot_Control_Reject_Response
+It is not what I want,Bot_Control_Reject_Response
+I wasn't looking for that,Bot_Control_Reject_Response
+Not the right response,Bot_Control_Reject_Response
+I don't need that,Bot_Control_Reject_Response
+I do not think it is the answer?,Bot_Control_Reject_Response
+I disagree,Bot_Control_Reject_Response
+Bad response,Bot_Control_Reject_Response
+No I'm fine thanks,Bot_Control_Reject_Response
+No,Bot_Control_Reject_Response
+Let us reopen this again.,Bot_Control_Start_Over
+Let's pick this up from the top again.,Bot_Control_Start_Over
+One more time from the beginning,Bot_Control_Start_Over
+Please initiate from the beginning,Bot_Control_Start_Over
+Please reset,Bot_Control_Start_Over
+Please start a new chat,Bot_Control_Start_Over
+Restart,Bot_Control_Start_Over
+Start over,Bot_Control_Start_Over
+We need a do-over,Bot_Control_Start_Over
+We will need to begin again,Bot_Control_Start_Over
+"Actually, let's start over",Bot_Control_Start_Over
+Back to the beginning,Bot_Control_Start_Over
+Back to the top,Bot_Control_Start_Over
+Begin over!,Bot_Control_Start_Over
+Can we please start over?,Bot_Control_Start_Over
+How can I start over?,Bot_Control_Start_Over
+I need to reset.,Bot_Control_Start_Over
+I want start from the beginning,Bot_Control_Start_Over
+I would like to start all over,Bot_Control_Start_Over
+Let's go back to square one,Bot_Control_Start_Over
+Kalyani Steels,Companies
+IBM,Companies
+Deloitte,Companies
+Cisco,Companies
+Goldman Sachs,Companies
+oracle,Companies
+Goldman,Companies
+Axis bank,Companies
+Boltzmann Labs,Companies
+Cloudera,Companies
+Accenture,Companies
+Unmetric,Companies
+Absolut data,Companies
+Dell,Companies
+Amazon,Companies
+Citi,Companies
+Citi Banks,Companies
+Cogniz Capital,Companies
+HDFC bank,Companies
+Tronx,Companies
+Tronx Motors,Companies
+Nissan,Companies
+Maruti Suzuki,Companies
+Google,Companies
+SAP,Companies
+Intuit,Companies
+Work Day,Companies
+Auto Desk,Companies
+John Deere,Companies
+Finserv,Companies
+Microsoft,Companies
+Kelly Services,Companies
+Edelman,Companies
+Xicom Technologies,Companies
+Alesco Data,Companies
+Aspen Technology,Companies
+Descartes Labs,Companies
+SAS Institute,Companies
+DeepMind,Companies
+Siemens,Companies
+Big ML,Companies
+Honeywell,Companies
+Mathworks,Companies
+WNS,Companies
+Avaya,Companies
+Capegemini,Companies
+ISMT,Companies
+Salesforce,Companies
+Cummins,Companies
+Zillow,Companies
+Forbes,Companies
+Are there any job vacancies currently open at your company?,Customer_Care_Employment_Inquiry
+Are you hiring at the moment?,Customer_Care_Employment_Inquiry
+I am looking for a job and would like to know if you have anything available..,Customer_Care_Employment_Inquiry
+I need to find some work,Customer_Care_Employment_Inquiry
+Is there any current employment opportunities?,Customer_Care_Employment_Inquiry
+Search job,Customer_Care_Employment_Inquiry
+What are the job openings available with the company?,Customer_Care_Employment_Inquiry
+What are the jobs you are hiring for?,Customer_Care_Employment_Inquiry
+What employment opportunities are currently available?,Customer_Care_Employment_Inquiry
+What jobs are available that are hiring for now?,Customer_Care_Employment_Inquiry
+What kind of jobs do you have?,Customer_Care_Employment_Inquiry
+What positions do you have available?,Customer_Care_Employment_Inquiry
+Time to go,General_Ending
+Bye bye,General_Ending
+Bye now,General_Ending
+Catch you later,General_Ending
+Cya later,General_Ending
+End trial,General_Ending
+Ending this session,General_Ending
+"Finished now, good bye",General_Ending
+Get lost,General_Ending
+Go away,General_Ending
+Go off,General_Ending
+Going now,General_Ending
+Good. bye.,General_Ending
+Goodbye,General_Ending
+Have a nice day?,General_Ending
+Hey bot go away,General_Ending
+I am leaving,General_Ending
+I am out of here,General_Ending
+I want to quit,General_Ending
+I'm done,General_Ending
+Im done,General_Ending
+Im good thank you,General_Ending
+I'm leaving now,General_Ending
+It was nice chatting with you,General_Ending
+Ok goodbye,General_Ending
+See you later,General_Ending
+See you,General_Ending
+Shut up,General_Ending
+Thank you for your time,General_Ending
+"Thanks, bye!",General_Ending
+"Thanks very much, bye!",General_Ending
+That is all,General_Ending
+That's everything,General_Ending
+Good evening,General_Greetings
+Good day,General_Greetings
+What's up?,General_Greetings
+What's new?,General_Greetings
+Ok take me back,General_Greetings
+How r u?,General_Greetings
+How is it going?,General_Greetings
+How have you been?,General_Greetings
+How are you today?,General_Greetings
+How are things going?,General_Greetings
+Hi there,General_Greetings
+Hi advisor,General_Greetings
+Hey you,General_Greetings
+Hey there,General_Greetings
+Hey there all,General_Greetings
+You there,General_Greetings
+Hey how are you doing,General_Greetings
+Who is this?,General_Greetings
+Hello,General_Greetings
+Hello I am looking for some help here,General_Greetings
+Hello Agent,General_Greetings
+Greetings,General_Greetings
+Good to see you,General_Greetings
+Good morning,General_Greetings
+You are on my nerves,General_Negative_Feedback
+Why are you stupid?,General_Negative_Feedback
+Why are you so annoying?,General_Negative_Feedback
+Stupid,General_Negative_Feedback
+Robots are stupid,General_Negative_Feedback
+Robots are boring,General_Negative_Feedback
+Quit annoying me,General_Negative_Feedback
+It is annoying,General_Negative_Feedback
+I hate you,General_Negative_Feedback
+I hate this!,General_Negative_Feedback
+I do not like you,General_Negative_Feedback
+Hate you,General_Negative_Feedback
+Everyone hates you,General_Negative_Feedback
+Do not like you?,General_Negative_Feedback
+You're too stupid,General_Negative_Feedback
+You're really irritating,General_Negative_Feedback
+You're really frustrating,General_Negative_Feedback
+You do not seem smart,General_Negative_Feedback
+You are very frustrating,General_Negative_Feedback
+You are having delusions,General_Negative_Feedback
+Thank you,General_Positive_Feedback
+This is good,General_Positive_Feedback
+This is great,General_Positive_Feedback
+This is so cool,General_Positive_Feedback
+You are awesome,General_Positive_Feedback
+You're a genius!,General_Positive_Feedback
+You've been so helpful :),General_Positive_Feedback
+You are great,General_Positive_Feedback
+Brilliant!,General_Positive_Feedback
+Can't believe you are that good,General_Positive_Feedback
+How cool is this?,General_Positive_Feedback
+You are the best,General_Positive_Feedback
+I like what you did there! :),General_Positive_Feedback
+I'm looking forward to working with you again! :),General_Positive_Feedback
+Love your work,General_Positive_Feedback
+Ok thank you,General_Positive_Feedback
+You are wonderful,General_Positive_Feedback
+You gave me exactly what I need!,General_Positive_Feedback
+In search of a job,Greetings
+in need of a job,Greetings
+Please help me find a job,Greetings
+Looking for a job,Greetings
+need a job,Greetings
+hey,Greetings
+good evening,Greetings
+good morning,Greetings
+holla,Greetings
+hello,Greetings
+hi,Greetings
+in search of a part time job,Greetings
+in search of a full time job,Greetings
+gaming,Hobbies
+gardening,Hobbies
+painting,Hobbies
+i like to paint,Hobbies
+blogging,Hobbies
+designing apps,Hobbies
+designing,Hobbies
+volunteering,Hobbies
+travelling,Hobbies
+giving speeches,Hobbies
+writing,Hobbies
+reading,Hobbies
+playing instruments,Hobbies
+playing the guitar,Hobbies
+charity,Hobbies
+social service,Hobbies
+dancing,Hobbies
+singing,Hobbies
+collecting stamps,Hobbies
+collecting,Hobbies
+experimenting,Hobbies
+cooking amazing dishes,Hobbies
+cooking,Hobbies
+playing sports,Hobbies
+abhinavtalari@gmail.com,Information
+richaraut@gmail.com,Information
+7030597553,Information
+jahanvisingh@gmail.com,Information
+porassingh@gmail.com,Information
+Public relations,Job_Role
+Sales Manager,Job_Role
+i am looking for a job,Job_Role
+ibm,Job_Role
+datascientist,Job_Role
+data analyst,Job_Role
+HR,Job_Role
+Finance,Job_Role
+Manager,Job_Role
+software developer,Job_Role
+web developer,Job_Role
+devops engineer,Job_Role
+ML engineer,Job_Role
+Systems engineer,Job_Role
+"No, I don't live in Pune",Location
+"No, I live in Mumbai",Location
+"No, i live in Delhi",Location
+"No, I would not like to relocate",Location
+"Yes, I would like to relocate",Location
+"Yes, i live in Pune",Location
+"No, I live in Bangalore",Location
+2 weeks,number
+more than a month from now on,number
+in a week,number
+1 week,number
+0 weeks,number
+one year,number
+three years,number
+six years,number
+1 year,number
+9 years,number
+6 years,number
+1,number
+0,number
+2,number
+3,number
+4,number
+5,number
+6,number
+7,number
+8,number
+9,number
+10,number
+11,number
+3 years,number
+3 weeks,number
+4 weeks,number
+5 weeks,number
+6 weeks,number
+in a month,number
+more than a month,number
+you are attracted to this company,Professional
+I have some past projects. I am the best you can have and hire. I have been awarded many times,Professional
+skills,Professional
+passion for this job,Professional
+ready to get started,Professional
+i am enthusiatic,Professional
+Being a fresher,Professional
+team work skills,Professional
+team work,Professional
+deliver exceptional results,Professional
+i can do work,Professional
+Learner,Professional
+enthusiastic,Professional
+versatile in nature,Professional
+leadership skills,Professional
+good communication skills,Professional
+public speaking skills,Professional
+past projects in this domain,Professional
+done projects in this domain,Professional
+I have people skills,Professional
+best candidate for this job role,Professional
+best candidate,Professional
+I am confident,Professional
+i have experience,Professional
+I possess all the skills,Professional
+app development,Projects
+deployment models,Projects
+I am working on biotechnology,Projects
+Researching about blockchains,Projects
+about cryptocurrencies,Projects
+researching about about model training,Projects
+ML domain,Projects
+machine learning domain,Projects
+about neural networks,Projects
+about computer vision,Projects
+connection between virtual reality and human perception,Projects
+about virtual reality,Projects
+in the domain of AI,Projects
+in the domain of artificial intelligence,Projects
+limits of communication,Projects
+computation,Projects
+Internet of Things,Projects
+IoT,Projects
+MCom,Qualifications
+MS,Qualifications
+12th,Qualifications
+High School,Qualifications
+Undergraduate,Qualifications
+Undergrad,Qualifications
+BTech,Qualifications
+BA,Qualifications
+BE,Qualifications
+Bcom,Qualifications
+Mtech,Qualifications
+MA,Qualifications
+amazing,Responses
+good,Responses
+bad,Responses
+okay,Responses
+ok,Responses
+okie,Responses
+yes,Responses
+no,Responses
+fine,Responses
+alright,Responses
+nice,Responses
+great,Responses
+goals,Situations
+follows and fulfill goals,Situations
+great presentation,Situations
+punctual,Situations
+great presentation at work,Situations
+training,Situations
+success,Situations
+sales targets,Situations
+development,Situations
+organized,Situations
+well balanced,Situations
+organized a charity event,Situations
+mentoring a coworker,Situations
+time blocking,Situations
+priorities,Situations
+prioritizing,Situations
+effective thinking,Situations
+practical thinking,Situations
+acknowledged,Situations
+emphatic not sympathetic,Situations
+asked help,Situations
+effective relationships,Situations
+accountability,Situations
+dedication,Situations
+got promotion,Situations
+hardworking,Situations
+workload,Situations
+additional,Situations
+awarded,Situations
+youngest person,Situations
+time management,Situations
+good alliances,Situations
+alliances,Situations
+great impact,Situations
+good impact on people and colleagues,Situations
+positive feedback,Situations
+negative feedback,Situations
+appreciation,Situations
+extraordinary,Situations
+highly,Situations
+noble,Situations
+loyal,Situations
+by building relationships with others,Techniques
+by identifying target audience,Techniques
+by choosing promotional methods wisely,Techniques
+through promotional plans,Techniques
+by promoting the business,Techniques
+marketing ideas,Techniques
+by creating a sales funnel,Techniques
+through emails and newsletter,Techniques
+enthusiasm,Techniques
+trustworthy,Techniques
+creative,Techniques
+disciplined,Techniques
+patience,Techniques
+respectful,Techniques
+determination,Techniques
+dedication,Techniques
+honesty,Techniques
+versatility,Techniques
+What can you tell me about the Hiring Manager?,User_Questions
+Is the position a backfill or newly created?,User_Questions
+What is the company's culture,User_Questions
+How long has this position been open for?,User_Questions
+What are the 3 or 4 most important skills needed for this Job Role?,User_Questions

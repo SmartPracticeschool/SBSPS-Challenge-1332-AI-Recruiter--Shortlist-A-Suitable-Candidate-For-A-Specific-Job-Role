@@ -1,0 +1,248 @@
+Companies,finserv 360,finserv,fin serv,fin serv 360,Finserv 360
+Companies,Citi,Citi Banks
+Companies,Goldmann,Goldmann Sachs,Sachs,Goldmann Sachs Engineering,Goldmann Sachs Engg
+Companies,salesforce,sales force
+Companies,SAS institute,SAS
+Companies,Absolut,Absolut Data,absolut
+Companies,Amazon,Amazon India,amazon
+Companies,Accenture,Accenture Analytics,accenture
+Companies,Alesco Data,Alesco,alesco data
+Companies,zillow,Zillow
+Companies,xicom technologies,xicom,Xicom Technologies
+Companies,work day,workday,Work Day
+Companies,wns,WNS
+Companies,unmetric,Unmetric
+Companies,tronx motors,tronx,Tronx Motors
+Companies,siemens,siemens india,Siemens 
+Companies,sap,SAP
+Companies,oracle,Oracle
+Companies,nissan,Nissan Motors,nissan india
+Companies,microsoft,Microsoft india
+Companies,mathworks,math works,MathWorks
+Companies,maruti suzuki,maruti,suzuki,Maruti Suzuki
+Companies,kelly services india,kelly,kelly services,Kelly Services India
+Companies,kalyani,Kalyani Steels
+Companies,intuit,Intuit
+Companies,john deere,JohnDeere
+Companies,ismt,issal,ISSAL steels
+Companies,ibm,IBM
+Companies,honeywell,honey well,honey well india,HoneyWell
+Companies,hdfc,hdfc bank,hdfc bank india,HDFC
+Companies,google,google india,Google
+Companies,edelman,edel man,EdelMan
+Companies,forbes,Forbes,Forbes India
+Companies,descartes labs,descartes,Descartes Labs
+Companies,demand matrix,demand,Demand Matrix
+Companies,deloitte,Deloitte
+Companies,dell,DELL
+Companies,deepmind,deep mind,DeepMind
+Companies,cummins,cummins india,Cummins
+Companies,Cogniz,Cogniz Capital,Cogniz capital private limited,cogniz capital pvt ltd
+Companies,cloudera,Cloudera
+Companies,cisco,CISCO
+Companies,capegemini,cape gemini,CapeGemini
+Companies,boltzmann,BoltzMann Labs
+Companies,bigML,big,big ml,BigML
+Companies,axis,axis bank,axis bank india,Axis Banks
+Companies,avaya,AVAYA
+Companies,autodesk,auto desk,AutoDesk
+Companies,aspen technologies,aspen,Aspen Technologies
+Greetings,good evening,gud evening,ge,Good evening,Evening
+Greetings,good morning,Good Morning,gm,gud morning,morning
+Greetings,hi,hello,hey,holla
+Hobbies,instruments,instrument
+Hobbies,social service,Social Service,socialservice
+Hobbies,singing
+Hobbies,blogging,blog
+Hobbies,charity
+Hobbies,collecting,collect
+Hobbies,stamps
+Hobbies,cooking,cook
+Hobbies,dishes,dish
+Hobbies,reading
+Hobbies,playing
+Hobbies,sports,basketball,football,cricket,badminton
+Hobbies,guitar,tabla,violin,sitar,piano,casio
+Hobbies,giving speeches,writing speeches,speeches,writing,orator,speaker,Motivational speaker,motivationalspeaker
+Hobbies,gardening,Gardening,garden
+Hobbies,gaming,game
+Hobbies,painting,paint,sketching
+Hobbies,experiment,experimenting
+Hobbies,designing apps,App Design,app designing
+Hobbies,design,designing
+Hobbies,Dancing,dancing,dance
+Information,porassingh@gmail.com
+Information,richaraut@gmail.com
+Information,jahanvisingh@gmail.com
+Information,abhinavtalari@gmail.com
+Job_Role,HR,Human Relations,hr,Human Resources,Recruiter,TAC,Talent Acquisition,Training Manager,Talent acquisition Consultant
+Job_Role,Manager,Team Head,Team Leader
+Job_Role,ML engineer,Machine Learning enthusiast,ml engineer,ml,Machine learning
+Job_Role,Public relations,Public resources,Public and human resources,Public & Human Resources,PR,PHR
+Job_Role,Sales Manager,SM,Marketing,sales,sales consultant,marketing head,marketing consultant
+Job_Role,Software developer,SDE,Software developer engineer,SD,Software developer associate,SDA,software engineer
+Job_Role,data scientist,Data Scientist,DS,data Analytics Analyst,Data Analytics specialist,dsi
+Job_Role,data analyst,analyst,DA,Data specialist,data consultant,data abstractor
+Job_Role,systems engineer,operator,programmer,computer architect,computer designer,application programmer,applications engineer,systems analyst,sysop,sys op,sys operator,developer,coder,administrator
+Job_Role,Web developer,developer,web programmer,web application developer,website developer,web designer,web architect,Front end developer,front-end developer,website designer
+Job_Role,Finance,Finance Consultant,Financial Consultant,Finance Management,Finance Manager,Finance Officer,Financial Affairs Officer
+Job_Role,devops engineer,devops,DeveloperOperations Engineer,Operations Engineer,Cloud Engineer,DevOps Engineer,Dev Ops Engineer
+Location,Kolkata,calcutta
+Location,Delhi,delhi,dilli,New delhi,new dilli
+Location,Chennai
+Location,Mumbai,mumbai,bombay
+Location,pune,Pune
+Location,Bangalore,Bengaluru
+names,preeti,priti
+names,angelina
+names,meera,mira
+names,poras,puru,Poras,Poras Singh
+names,anushka,anoushka
+names,ankit
+names,williams
+names,paresh
+names,will
+names,bina,beena
+names,abhinav,Abhinav,Abhinav Talari
+names,gayatri
+names,hemant
+names,sandeep,sandip
+names,trusha,trisha
+names,jahanvi,jahnavi,janhavi,janvi,janavi,Jahanvi,Jahanvi Singh
+names,sheetal,shital
+names,manisha
+names,richa,Richa,Richa Raut
+names,divya
+names,rakesh
+numbers,1 month,in a month,month,more than a month,more than a month from now
+numbers,4,4 years,4 weeks,four weeks,four years
+numbers,2,2 weeks,two weeks,two years,2 years
+numbers,6,six,six years,6 years,six weeks,6 weeks
+numbers,3,three,three years,3 years,three weeks,3 weeks
+numbers,1,one,1 year,one year,in a week,one week,1 week
+phonenumber,@sys-number,"/<?input.text.extract('^[^\\d]*[\\d]{11}[^\\d]*$',0)?>/"
+Professional,strength
+Professional,skills
+Professional,confident
+Professional,ready to get started
+Professional,candidate
+Professional,attracted to the company
+Professional,position
+Professional,passion for the job
+Professional,passion
+Professional,attracted
+Professional,ready
+Professional,applicable
+Professional,enthusiastic
+Professional,fresher
+Professional,people skills
+Professional,past projects
+Professional,best
+Professional,background
+Professional,experience
+Projects,ML,machine learning,machinelearning
+Projects,neural networks,neuralnetworks,convolutional neural networks,CNN,convolutional neuralnetworks
+Projects,connection
+Projects,computation,Computation
+Projects,cryptocurrencies,cryptocurrency
+Projects,computer vision,computervision
+Projects,AI,artificial intelligence,ArtificialIntelligence
+Projects,BioTech,BioTechnology,Bio technology
+Projects,Human Perception,Human perception,Humanperception,Human-perception
+Projects,app development,app making,app building,App Development
+Projects,virtual reality,VR,Virtual Reality,Virtualreality
+Projects,blockchain,blockchains,block chain
+Projects,model training,Model training,ModelTraining
+Projects,domain
+Projects,communication,limits of communication
+Projects,IOT,IoT,Internet of things
+Qualifications,BCom,Bcom,B Com
+Qualifications,BA,ba
+Qualifications,MA,ma
+Qualifications,BE,be
+Qualifications,High School,high school,highschool,12th
+Qualifications,Undergraduate,Undergrad,Under Grad
+Qualifications,Btech,BTech,B Tech
+Qualifications,MTech,mtech,M tech
+Qualifications,MCom,mcom,M com
+Qualifications,MS,ms
+Responses,good,bad
+Responses,nice,great,amazing,fine
+Responses,No,no,nope,nah,nahh
+Responses,Thank you,you are welcome,your welcome,You're welcome,no problem,np,anytime,no issues,Its my pleaseure,it's my pleasure
+Responses,okay,ok,okie
+Responses,yes,Yeah,Yes,Yup,Yupp
+Situations,overtime,Overtime,Over time
+Situations,loyal,Loyal
+Situations,noble,Noble
+Situations,hardworking,Hardworking,Hard working,Hard-working
+Situations,punctual,Punctual,Punctuality
+Situations,workload,Workload
+Situations,promotion,Promotion
+Situations,youngest,Youngest
+Situations,timemanagement,time management,Time-management
+Situations,dedication,Dedication,dedicated
+Situations,awarded,Awarded,Awards
+Situations,help,Help
+Situations,additional,Additional
+Situations,accountability,Accountability
+Situations,Punctuality,Punctuality
+Situations,asked,ask
+Situations,empathetic,Empathetic
+Situations,sympathetic,Sympathetic
+Situations,acknowledged,Acknowledged,Acknowledgement,acknowlegement
+Situations,practical
+Situations,relationships,customer,customer experience
+Situations,thinking
+Situations,effective
+Situations,alliances
+Situations,appreciation
+Situations,good alliances
+Situations,great impact
+Situations,positive feedback
+Situations,extraordinary
+Situations,highly
+Situations,goals
+Situations,great presentation,Great presentation,presentable
+Situations,training,mentoring,Training
+Situations,success
+Situations,sales targets
+Situations,priorities
+Situations,Prioritizing
+Situations,organizing,organized
+Situations,charity event,events
+Situations,well balanced,balanced
+Situations,mentoring,Mentoring,Training
+Situations,Development,development
+Situations,co workers,Coworkers,Co-workers,colleagues
+Situations,time-blocking,Time-blocking,time blocking
+Techniques,dedication,dedicate,dedicating
+Techniques,target audience
+Techniques,identifying
+Techniques,building relationships
+Techniques,sales funnel
+Techniques,promotional methods
+Techniques,wisely
+Techniques,choosing
+Techniques,creating
+Techniques,business
+Techniques,promoting
+Techniques,disciplined
+Techniques,determination,determined
+Techniques,patience
+Techniques,creative
+Techniques,versatility
+Techniques,trustworthy
+Techniques,promotional plans
+Techniques,respectful
+Techniques,through emails
+Techniques,emails and newsletter
+Techniques,through
+Techniques,marketing idea
+Techniques,honesty
+Techniques,enthusiasm
+User_Questions,tell,about,hiring manager,hiring
+User_Questions,workspace,workspace culture,work space,culture
+User_Questions,position open,open position,open,long
+User_Questions,position backfill,backfill,back fill,newly,elected,newly elected
+User_Questions,3 or 4,important,important skills
