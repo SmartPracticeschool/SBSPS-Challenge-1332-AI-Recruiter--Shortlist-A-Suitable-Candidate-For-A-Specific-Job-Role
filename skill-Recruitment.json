@@ -1,0 +1,5712 @@
+{
+  "intents": [
+    {
+      "intent": "Bot_Control_Ignore_Undo",
+      "examples": [
+        {
+          "text": "I change my mind."
+        },
+        {
+          "text": "Wait! Let's back up few steps and do that again"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "Not yet"
+        },
+        {
+          "text": "Never"
+        },
+        {
+          "text": "Never mind"
+        },
+        {
+          "text": "Let us redo that again!"
+        },
+        {
+          "text": "Hold on! I think I want to do it differently."
+        },
+        {
+          "text": "It's not what I mean"
+        },
+        {
+          "text": "Ignore this"
+        },
+        {
+          "text": "I didn't mean to do that actually, let's go back"
+        },
+        {
+          "text": "I did not mean that?"
+        },
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Actually, I take that back"
+        }
+      ],
+      "description": "Ask the bot to take one step back."
+    },
+    {
+      "intent": "Hobbies",
+      "examples": [
+        {
+          "text": "social service"
+        },
+        {
+          "text": "playing sports"
+        },
+        {
+          "text": "blogging"
+        },
+        {
+          "text": "designing apps"
+        },
+        {
+          "text": "designing"
+        },
+        {
+          "text": "volunteering"
+        },
+        {
+          "text": "travelling"
+        },
+        {
+          "text": "giving speeches"
+        },
+        {
+          "text": "writing"
+        },
+        {
+          "text": "reading"
+        },
+        {
+          "text": "playing instruments"
+        },
+        {
+          "text": "playing the guitar"
+        },
+        {
+          "text": "charity"
+        },
+        {
+          "text": "i like to paint"
+        },
+        {
+          "text": "painting"
+        },
+        {
+          "text": "gardening"
+        },
+        {
+          "text": "gaming"
+        },
+        {
+          "text": "singing"
+        },
+        {
+          "text": "dancing"
+        },
+        {
+          "text": "collecting stamps"
+        },
+        {
+          "text": "collecting"
+        },
+        {
+          "text": "experimenting"
+        },
+        {
+          "text": "cooking amazing dishes"
+        },
+        {
+          "text": "cooking"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Responses",
+      "examples": [
+        {
+          "text": "bad"
+        },
+        {
+          "text": "good"
+        },
+        {
+          "text": "amazing"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "nice"
+        },
+        {
+          "text": "alright"
+        },
+        {
+          "text": "fine"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "okie"
+        },
+        {
+          "text": "okay"
+        },
+        {
+          "text": "ok"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Bot_Control_Clarification",
+      "examples": [
+        {
+          "text": "I didn't quite understand what you said"
+        },
+        {
+          "text": "Come again?"
+        },
+        {
+          "text": "Explains"
+        },
+        {
+          "text": "I did not quite understand what you gave me"
+        },
+        {
+          "text": "I didn't catch that"
+        },
+        {
+          "text": "Can you say that again please?"
+        },
+        {
+          "text": "What do you mean?"
+        },
+        {
+          "text": "What do you mean by that?"
+        },
+        {
+          "text": "What are you talking about?"
+        },
+        {
+          "text": "What are you saying?"
+        },
+        {
+          "text": "What are you referring to?"
+        },
+        {
+          "text": "Let's try to say that again more clearly, shall we?"
+        },
+        {
+          "text": "I need more information"
+        },
+        {
+          "text": "I don't understand"
+        },
+        {
+          "text": "I don't understand what you're saying"
+        },
+        {
+          "text": "I don't get it"
+        },
+        {
+          "text": "I didn't understand that properly"
+        }
+      ],
+      "description": "Repeat or clarify last statement."
+    },
+    {
+      "intent": "Bot_Control_Approve_Response",
+      "examples": [
+        {
+          "text": "I like that"
+        },
+        {
+          "text": "You read my mind"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Yeah, that's it!"
+        },
+        {
+          "text": "Very well. Let's do it."
+        },
+        {
+          "text": "This is alright"
+        },
+        {
+          "text": "That's exactly what I want"
+        },
+        {
+          "text": "That is what I need"
+        },
+        {
+          "text": "That is the proper response."
+        },
+        {
+          "text": "That is right"
+        },
+        {
+          "text": "That is precisely what I was looking for"
+        },
+        {
+          "text": "Sweet"
+        },
+        {
+          "text": "Sure thing!"
+        },
+        {
+          "text": "Indeed!"
+        },
+        {
+          "text": "I agree"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "For sure!"
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "All right"
+        },
+        {
+          "text": "Affirmative. That's what I'm looking for."
+        }
+      ],
+      "description": "Acknowledge that the response satisfies a question."
+    },
+    {
+      "intent": "Projects",
+      "examples": [
+        {
+          "text": "I am working on biotechnology"
+        },
+        {
+          "text": "Researching about blockchains"
+        },
+        {
+          "text": "about cryptocurrencies"
+        },
+        {
+          "text": "researching about about model training"
+        },
+        {
+          "text": "ML domain"
+        },
+        {
+          "text": "machine learning domain"
+        },
+        {
+          "text": "about neural networks"
+        },
+        {
+          "text": "about computer vision"
+        },
+        {
+          "text": "connection between virtual reality and human perception"
+        },
+        {
+          "text": "about virtual reality"
+        },
+        {
+          "text": "in the domain of AI"
+        },
+        {
+          "text": "in the domain of artificial intelligence"
+        },
+        {
+          "text": "limits of communication"
+        },
+        {
+          "text": "computation"
+        },
+        {
+          "text": "Internet of Things"
+        },
+        {
+          "text": "IoT"
+        },
+        {
+          "text": "app development"
+        },
+        {
+          "text": "deployment models"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Qualifications",
+      "examples": [
+        {
+          "text": "BE"
+        },
+        {
+          "text": "High School"
+        },
+        {
+          "text": "12th"
+        },
+        {
+          "text": "Undergraduate"
+        },
+        {
+          "text": "Undergrad"
+        },
+        {
+          "text": "BTech"
+        },
+        {
+          "text": "BA"
+        },
+        {
+          "text": "Bcom"
+        },
+        {
+          "text": "Mtech"
+        },
+        {
+          "text": "MCom"
+        },
+        {
+          "text": "MA"
+        },
+        {
+          "text": "MS"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "We will need to begin again"
+        },
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Let's go back to square one"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Actually, let's start over"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Begin over!"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "Companies",
+      "examples": [
+        {
+          "text": "Tronx Motors"
+        },
+        {
+          "text": "Forbes"
+        },
+        {
+          "text": "Zillow"
+        },
+        {
+          "text": "Cummins"
+        },
+        {
+          "text": "Salesforce"
+        },
+        {
+          "text": "ISMT"
+        },
+        {
+          "text": "Capegemini"
+        },
+        {
+          "text": "Kalyani Steels"
+        },
+        {
+          "text": "Avaya"
+        },
+        {
+          "text": "WNS"
+        },
+        {
+          "text": "Mathworks"
+        },
+        {
+          "text": "Tronx"
+        },
+        {
+          "text": "HDFC bank"
+        },
+        {
+          "text": "Cogniz Capital"
+        },
+        {
+          "text": "Citi Banks"
+        },
+        {
+          "text": "Citi"
+        },
+        {
+          "text": "Amazon"
+        },
+        {
+          "text": "Dell"
+        },
+        {
+          "text": "Absolut data"
+        },
+        {
+          "text": "Unmetric"
+        },
+        {
+          "text": "Accenture"
+        },
+        {
+          "text": "Cloudera"
+        },
+        {
+          "text": "Boltzmann Labs"
+        },
+        {
+          "text": "Axis bank"
+        },
+        {
+          "text": "Goldman"
+        },
+        {
+          "text": "oracle"
+        },
+        {
+          "text": "Goldman Sachs"
+        },
+        {
+          "text": "Cisco"
+        },
+        {
+          "text": "Deloitte"
+        },
+        {
+          "text": "IBM"
+        },
+        {
+          "text": "Honeywell"
+        },
+        {
+          "text": "Big ML"
+        },
+        {
+          "text": "Siemens"
+        },
+        {
+          "text": "DeepMind"
+        },
+        {
+          "text": "SAS Institute"
+        },
+        {
+          "text": "Descartes Labs"
+        },
+        {
+          "text": "Aspen Technology"
+        },
+        {
+          "text": "Alesco Data"
+        },
+        {
+          "text": "Xicom Technologies"
+        },
+        {
+          "text": "Edelman"
+        },
+        {
+          "text": "Kelly Services"
+        },
+        {
+          "text": "Microsoft"
+        },
+        {
+          "text": "Finserv"
+        },
+        {
+          "text": "John Deere"
+        },
+        {
+          "text": "Auto Desk"
+        },
+        {
+          "text": "Work Day"
+        },
+        {
+          "text": "Intuit"
+        },
+        {
+          "text": "SAP"
+        },
+        {
+          "text": "Google"
+        },
+        {
+          "text": "Maruti Suzuki"
+        },
+        {
+          "text": "Nissan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Job_Role",
+      "examples": [
+        {
+          "text": "datascientist"
+        },
+        {
+          "text": "Systems engineer"
+        },
+        {
+          "text": "Public relations"
+        },
+        {
+          "text": "ibm"
+        },
+        {
+          "text": "Sales Manager"
+        },
+        {
+          "text": "i am looking for a job"
+        },
+        {
+          "text": "data analyst"
+        },
+        {
+          "text": "HR"
+        },
+        {
+          "text": "Finance"
+        },
+        {
+          "text": "Manager"
+        },
+        {
+          "text": "software developer"
+        },
+        {
+          "text": "web developer"
+        },
+        {
+          "text": "devops engineer"
+        },
+        {
+          "text": "ML engineer"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "User_Questions",
+      "examples": [
+        {
+          "text": "How long has this position been open for?"
+        },
+        {
+          "text": "Is the position a backfill or newly created?"
+        },
+        {
+          "text": "What can you tell me about the Hiring Manager?"
+        },
+        {
+          "text": "What are the 3 or 4 most important skills needed for this Job Role?"
+        },
+        {
+          "text": "What is the company's culture"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Confirm_Presence",
+      "examples": [
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Are you still around?"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        },
+        {
+          "text": "Have I lost you?"
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Is anybody home?"
+        },
+        {
+          "text": "Speak to me if you are there."
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "You around?"
+        }
+      ],
+      "description": "Ask the bot to indicate that it is available."
+    },
+    {
+      "intent": "Location",
+      "examples": [
+        {
+          "text": "No, I don't live in Pune"
+        },
+        {
+          "text": "Yes, i live in Pune"
+        },
+        {
+          "text": "No, I live in Bangalore"
+        },
+        {
+          "text": "No, I live in Mumbai"
+        },
+        {
+          "text": "No, i live in Delhi"
+        },
+        {
+          "text": "No, I would not like to relocate"
+        },
+        {
+          "text": "Yes, I would like to relocate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Customer_Care_Employment_Inquiry",
+      "examples": [
+        {
+          "text": "What employment opportunities are currently available?"
+        },
+        {
+          "text": "Is there any current employment opportunities?"
+        },
+        {
+          "text": "Search job"
+        },
+        {
+          "text": "What are the job openings available with the company?"
+        },
+        {
+          "text": "What are the jobs you are hiring for?"
+        },
+        {
+          "text": "I need to find some work"
+        },
+        {
+          "text": "What jobs are available that are hiring for now?"
+        },
+        {
+          "text": "What kind of jobs do you have?"
+        },
+        {
+          "text": "What positions do you have available?"
+        },
+        {
+          "text": "Are there any job vacancies currently open at your company?"
+        },
+        {
+          "text": "Are you hiring at the moment?"
+        },
+        {
+          "text": "I am looking for a job and would like to know if you have anything available.."
+        }
+      ],
+      "description": "Find job opportunities."
+    },
+    {
+      "intent": "Situations",
+      "examples": [
+        {
+          "text": "prioritizing"
+        },
+        {
+          "text": "priorities"
+        },
+        {
+          "text": "time blocking"
+        },
+        {
+          "text": "mentoring a coworker"
+        },
+        {
+          "text": "organized a charity event"
+        },
+        {
+          "text": "well balanced"
+        },
+        {
+          "text": "great presentation"
+        },
+        {
+          "text": "good alliances"
+        },
+        {
+          "text": "great impact"
+        },
+        {
+          "text": "good impact on people and colleagues"
+        },
+        {
+          "text": "positive feedback"
+        },
+        {
+          "text": "negative feedback"
+        },
+        {
+          "text": "appreciation"
+        },
+        {
+          "text": "extraordinary"
+        },
+        {
+          "text": "highly"
+        },
+        {
+          "text": "noble"
+        },
+        {
+          "text": "loyal"
+        },
+        {
+          "text": "goals"
+        },
+        {
+          "text": "follows and fulfill goals"
+        },
+        {
+          "text": "organized"
+        },
+        {
+          "text": "development"
+        },
+        {
+          "text": "sales targets"
+        },
+        {
+          "text": "success"
+        },
+        {
+          "text": "training"
+        },
+        {
+          "text": "great presentation at work"
+        },
+        {
+          "text": "punctual"
+        },
+        {
+          "text": "youngest person"
+        },
+        {
+          "text": "awarded"
+        },
+        {
+          "text": "additional"
+        },
+        {
+          "text": "workload"
+        },
+        {
+          "text": "hardworking"
+        },
+        {
+          "text": "got promotion"
+        },
+        {
+          "text": "dedication"
+        },
+        {
+          "text": "accountability"
+        },
+        {
+          "text": "time management"
+        },
+        {
+          "text": "asked help"
+        },
+        {
+          "text": "emphatic not sympathetic"
+        },
+        {
+          "text": "acknowledged"
+        },
+        {
+          "text": "practical thinking"
+        },
+        {
+          "text": "effective thinking"
+        },
+        {
+          "text": "effective relationships"
+        },
+        {
+          "text": "alliances"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Techniques",
+      "examples": [
+        {
+          "text": "honesty"
+        },
+        {
+          "text": "versatility"
+        },
+        {
+          "text": "by identifying target audience"
+        },
+        {
+          "text": "by choosing promotional methods wisely"
+        },
+        {
+          "text": "through promotional plans"
+        },
+        {
+          "text": "by promoting the business"
+        },
+        {
+          "text": "marketing ideas"
+        },
+        {
+          "text": "by creating a sales funnel"
+        },
+        {
+          "text": "through emails and newsletter"
+        },
+        {
+          "text": "by building relationships with others"
+        },
+        {
+          "text": "enthusiasm"
+        },
+        {
+          "text": "trustworthy"
+        },
+        {
+          "text": "creative"
+        },
+        {
+          "text": "disciplined"
+        },
+        {
+          "text": "patience"
+        },
+        {
+          "text": "respectful"
+        },
+        {
+          "text": "determination"
+        },
+        {
+          "text": "dedication"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Professional",
+      "examples": [
+        {
+          "text": "best candidate for this job role"
+        },
+        {
+          "text": "Learner"
+        },
+        {
+          "text": "i can do work"
+        },
+        {
+          "text": "deliver exceptional results"
+        },
+        {
+          "text": "team work"
+        },
+        {
+          "text": "team work skills"
+        },
+        {
+          "text": "Being a fresher"
+        },
+        {
+          "text": "i am enthusiatic"
+        },
+        {
+          "text": "ready to get started"
+        },
+        {
+          "text": "passion for this job"
+        },
+        {
+          "text": "you are attracted to this company"
+        },
+        {
+          "text": "I have some past projects. I am the best you can have and hire. I have been awarded many times"
+        },
+        {
+          "text": "enthusiastic"
+        },
+        {
+          "text": "versatile in nature"
+        },
+        {
+          "text": "leadership skills"
+        },
+        {
+          "text": "good communication skills"
+        },
+        {
+          "text": "public speaking skills"
+        },
+        {
+          "text": "past projects in this domain"
+        },
+        {
+          "text": "done projects in this domain"
+        },
+        {
+          "text": "I have people skills"
+        },
+        {
+          "text": "best candidate"
+        },
+        {
+          "text": "I am confident"
+        },
+        {
+          "text": "i have experience"
+        },
+        {
+          "text": "I possess all the skills"
+        },
+        {
+          "text": "skills"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "number",
+      "examples": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "six years"
+        },
+        {
+          "text": "three years"
+        },
+        {
+          "text": "one year"
+        },
+        {
+          "text": "2 weeks"
+        },
+        {
+          "text": "0 weeks"
+        },
+        {
+          "text": "1 week"
+        },
+        {
+          "text": "in a week"
+        },
+        {
+          "text": "3 weeks"
+        },
+        {
+          "text": "4 weeks"
+        },
+        {
+          "text": "5 weeks"
+        },
+        {
+          "text": "6 weeks"
+        },
+        {
+          "text": "in a month"
+        },
+        {
+          "text": "more than a month"
+        },
+        {
+          "text": "more than a month from now on"
+        },
+        {
+          "text": "9 years"
+        },
+        {
+          "text": "6 years"
+        },
+        {
+          "text": "3 years"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "1 year"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "0"
+        },
+        {
+          "text": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "You're a genius!"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Information",
+      "examples": [
+        {
+          "text": "jahanvisingh@gmail.com"
+        },
+        {
+          "text": "porassingh@gmail.com"
+        },
+        {
+          "text": "richaraut@gmail.com"
+        },
+        {
+          "text": "abhinavtalari@gmail.com"
+        },
+        {
+          "text": "7030597553"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Reject_Response",
+      "examples": [
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "Bad response"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "I don't need that"
+        },
+        {
+          "text": "I don't want that"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "You're misunderstanding me"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "You did not understand what I said"
+        },
+        {
+          "text": "You did not understand what I asked"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "That was wrong, try again"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "That sounds like the wrong response"
+        },
+        {
+          "text": "That is not true"
+        },
+        {
+          "text": "That answer is incorrect"
+        }
+      ],
+      "description": "Indicate the bot's response does not address a question."
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "holla"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "in search of a part time job"
+        },
+        {
+          "text": "in search of a full time job"
+        },
+        {
+          "text": "In search of a job"
+        },
+        {
+          "text": "in need of a job"
+        },
+        {
+          "text": "Please help me find a job"
+        },
+        {
+          "text": "Looking for a job"
+        },
+        {
+          "text": "need a job"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "good morning"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Location",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Bangalore",
+          "synonyms": [
+            "Bengaluru"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pune",
+          "synonyms": [
+            "Pune"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mumbai",
+          "synonyms": [
+            "mumbai",
+            "bombay"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chennai",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Delhi",
+          "synonyms": [
+            "delhi",
+            "dilli",
+            "New delhi",
+            "new dilli"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Kolkata",
+          "synonyms": [
+            "calcutta"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Projects",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ML",
+          "synonyms": [
+            "machine learning",
+            "machinelearning"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "neural networks",
+          "synonyms": [
+            "neuralnetworks",
+            "convolutional neural networks",
+            "CNN",
+            "convolutional neuralnetworks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "connection",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "computation",
+          "synonyms": [
+            "Computation"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cryptocurrencies",
+          "synonyms": [
+            "cryptocurrency"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "computer vision",
+          "synonyms": [
+            "computervision"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "AI",
+          "synonyms": [
+            "artificial intelligence",
+            "ArtificialIntelligence"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Human Perception",
+          "synonyms": [
+            "Human perception",
+            "Humanperception",
+            "Human-perception"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "app development",
+          "synonyms": [
+            "app making",
+            "app building",
+            "App Development"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "virtual reality",
+          "synonyms": [
+            "VR",
+            "Virtual Reality",
+            "Virtualreality"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BioTech",
+          "synonyms": [
+            "BioTechnology",
+            "Bio technology"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "blockchain",
+          "synonyms": [
+            "blockchains",
+            "block chain"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "model training",
+          "synonyms": [
+            "Model training",
+            "ModelTraining"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "domain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "communication",
+          "synonyms": [
+            "limits of communication"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "IOT",
+          "synonyms": [
+            "IoT",
+            "Internet of things"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "User_Questions",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3 or 4",
+          "synonyms": [
+            "important",
+            "important skills"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tell",
+          "synonyms": [
+            "about",
+            "hiring manager",
+            "hiring"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "position backfill",
+          "synonyms": [
+            "backfill",
+            "back fill",
+            "newly",
+            "elected",
+            "newly elected"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "position open",
+          "synonyms": [
+            "open position",
+            "open",
+            "long"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "workspace",
+          "synonyms": [
+            "workspace culture",
+            "work space",
+            "culture"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Situations",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "sympathetic",
+          "synonyms": [
+            "Sympathetic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "empathetic",
+          "synonyms": [
+            "Empathetic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "asked",
+          "synonyms": [
+            "ask"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Punctuality",
+          "synonyms": [
+            "Punctuality"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "accountability",
+          "synonyms": [
+            "Accountability"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "additional",
+          "synonyms": [
+            "Additional"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "help",
+          "synonyms": [
+            "Help"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dedication",
+          "synonyms": [
+            "Dedication",
+            "dedicated"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "timemanagement",
+          "synonyms": [
+            "time management",
+            "Time-management"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "youngest",
+          "synonyms": [
+            "Youngest"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "promotion",
+          "synonyms": [
+            "Promotion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "workload",
+          "synonyms": [
+            "Workload"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "punctual",
+          "synonyms": [
+            "Punctual",
+            "Punctuality"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hardworking",
+          "synonyms": [
+            "Hardworking",
+            "Hard working",
+            "Hard-working"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "noble",
+          "synonyms": [
+            "Noble"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "loyal",
+          "synonyms": [
+            "Loyal"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "awarded",
+          "synonyms": [
+            "Awarded",
+            "Awards"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "time-blocking",
+          "synonyms": [
+            "Time-blocking",
+            "time blocking"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "co workers",
+          "synonyms": [
+            "Coworkers",
+            "Co-workers",
+            "colleagues"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Development",
+          "synonyms": [
+            "development"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mentoring",
+          "synonyms": [
+            "Mentoring",
+            "Training"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "overtime",
+          "synonyms": [
+            "Overtime",
+            "Over time"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "well balanced",
+          "synonyms": [
+            "balanced"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "charity event",
+          "synonyms": [
+            "events"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "organizing",
+          "synonyms": [
+            "organized"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Prioritizing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "priorities",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sales targets",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "success",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "training",
+          "synonyms": [
+            "mentoring",
+            "Training"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "great presentation",
+          "synonyms": [
+            "Great presentation",
+            "presentable"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "goals",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "highly",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "extraordinary",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "positive feedback",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "great impact",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "good alliances",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "appreciation",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "alliances",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "effective",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "thinking",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "relationships",
+          "synonyms": [
+            "customer",
+            "customer experience"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "practical",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "acknowledged",
+          "synonyms": [
+            "Acknowledged",
+            "Acknowledgement",
+            "acknowlegement"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "names",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bina",
+          "synonyms": [
+            "beena"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gayatri",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "hemant",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sandeep",
+          "synonyms": [
+            "sandip"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "trusha",
+          "synonyms": [
+            "trisha"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "jahanvi",
+          "synonyms": [
+            "jahnavi",
+            "janhavi",
+            "janvi",
+            "janavi",
+            "Jahanvi",
+            "Jahanvi Singh"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sheetal",
+          "synonyms": [
+            "shital"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "manisha",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "richa",
+          "synonyms": [
+            "Richa",
+            "Richa Raut"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "divya",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "rakesh",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "abhinav",
+          "synonyms": [
+            "Abhinav",
+            "Abhinav Talari"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "poras",
+          "synonyms": [
+            "puru",
+            "Poras",
+            "Poras Singh"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "anushka",
+          "synonyms": [
+            "anoushka"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "meera",
+          "synonyms": [
+            "mira"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "angelina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "preeti",
+          "synonyms": [
+            "priti"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ankit",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "williams",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "paresh",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "will",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Hobbies",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "stamps",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "gardening",
+          "synonyms": [
+            "Gardening",
+            "garden"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gaming",
+          "synonyms": [
+            "game"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "painting",
+          "synonyms": [
+            "paint",
+            "sketching"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "experiment",
+          "synonyms": [
+            "experimenting"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "designing apps",
+          "synonyms": [
+            "App Design",
+            "app designing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "design",
+          "synonyms": [
+            "designing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Dancing",
+          "synonyms": [
+            "dancing",
+            "dance"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "social service",
+          "synonyms": [
+            "Social Service",
+            "socialservice"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "singing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "cooking",
+          "synonyms": [
+            "cook"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "giving speeches",
+          "synonyms": [
+            "writing speeches",
+            "speeches",
+            "writing",
+            "orator",
+            "speaker",
+            "Motivational speaker",
+            "motivationalspeaker"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "reading",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "guitar",
+          "synonyms": [
+            "tabla",
+            "violin",
+            "sitar",
+            "piano",
+            "casio"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "instruments",
+          "synonyms": [
+            "instrument"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sports",
+          "synonyms": [
+            "basketball",
+            "football",
+            "cricket",
+            "badminton"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "playing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "dishes",
+          "synonyms": [
+            "dish"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "blogging",
+          "synonyms": [
+            "blog"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "charity",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "collecting",
+          "synonyms": [
+            "collect"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Job_Role",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Web developer",
+          "synonyms": [
+            "developer",
+            "web programmer",
+            "web application developer",
+            "website developer",
+            "web designer",
+            "web architect",
+            "Front end developer",
+            "front-end developer",
+            "website designer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "data analyst",
+          "synonyms": [
+            "analyst",
+            "DA",
+            "Data specialist",
+            "data consultant",
+            "data abstractor"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "data scientist",
+          "synonyms": [
+            "Data Scientist",
+            "DS",
+            "data Analytics Analyst",
+            "Data Analytics specialist",
+            "dsi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "devops engineer",
+          "synonyms": [
+            "devops",
+            "DeveloperOperations Engineer",
+            "Operations Engineer",
+            "Cloud Engineer",
+            "DevOps Engineer",
+            "Dev Ops Engineer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Finance",
+          "synonyms": [
+            "Finance Consultant",
+            "Financial Consultant",
+            "Finance Management",
+            "Finance Manager",
+            "Finance Officer",
+            "Financial Affairs Officer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "HR",
+          "synonyms": [
+            "Human Relations",
+            "hr",
+            "Human Resources",
+            "Recruiter",
+            "TAC",
+            "Talent Acquisition",
+            "Training Manager",
+            "Talent acquisition Consultant"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manager",
+          "synonyms": [
+            "Team Head",
+            "Team Leader"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ML engineer",
+          "synonyms": [
+            "Machine Learning enthusiast",
+            "ml engineer",
+            "ml",
+            "Machine learning"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Public relations",
+          "synonyms": [
+            "Public resources",
+            "Public and human resources",
+            "Public & Human Resources",
+            "PR",
+            "PHR"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sales Manager",
+          "synonyms": [
+            "SM",
+            "Marketing",
+            "sales",
+            "sales consultant",
+            "marketing head",
+            "marketing consultant"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Software developer",
+          "synonyms": [
+            "SDE",
+            "Software developer engineer",
+            "SD",
+            "Software developer associate",
+            "SDA",
+            "software engineer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "systems engineer",
+          "synonyms": [
+            "operator",
+            "programmer",
+            "computer architect",
+            "computer designer",
+            "application programmer",
+            "applications engineer",
+            "systems analyst",
+            "sysop",
+            "sys op",
+            "sys operator",
+            "developer",
+            "coder",
+            "administrator"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Companies",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Alesco Data",
+          "synonyms": [
+            "Alesco",
+            "alesco data"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "zillow",
+          "synonyms": [
+            "Zillow"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "xicom technologies",
+          "synonyms": [
+            "xicom",
+            "Xicom Technologies"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "work day",
+          "synonyms": [
+            "workday",
+            "Work Day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "wns",
+          "synonyms": [
+            "WNS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "unmetric",
+          "synonyms": [
+            "Unmetric"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "autodesk",
+          "synonyms": [
+            "auto desk",
+            "AutoDesk"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "avaya",
+          "synonyms": [
+            "AVAYA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "axis",
+          "synonyms": [
+            "axis bank",
+            "axis bank india",
+            "Axis Banks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bigML",
+          "synonyms": [
+            "big",
+            "big ml",
+            "BigML"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kalyani",
+          "synonyms": [
+            "Kalyani Steels"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "intuit",
+          "synonyms": [
+            "Intuit"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "john deere",
+          "synonyms": [
+            "JohnDeere"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ismt",
+          "synonyms": [
+            "issal",
+            "ISSAL steels"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ibm",
+          "synonyms": [
+            "IBM"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "aspen technologies",
+          "synonyms": [
+            "aspen",
+            "Aspen Technologies"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "honeywell",
+          "synonyms": [
+            "honey well",
+            "honey well india",
+            "HoneyWell"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Citi",
+          "synonyms": [
+            "Citi Banks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Goldmann",
+          "synonyms": [
+            "Goldmann Sachs",
+            "Sachs",
+            "Goldmann Sachs Engineering",
+            "Goldmann Sachs Engg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "salesforce",
+          "synonyms": [
+            "sales force"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hdfc",
+          "synonyms": [
+            "hdfc bank",
+            "hdfc bank india",
+            "HDFC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "google",
+          "synonyms": [
+            "google india",
+            "Google"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "edelman",
+          "synonyms": [
+            "edel man",
+            "EdelMan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "forbes",
+          "synonyms": [
+            "Forbes",
+            "Forbes India"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "finserv 360",
+          "synonyms": [
+            "finserv",
+            "fin serv",
+            "fin serv 360",
+            "Finserv 360"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "descartes labs",
+          "synonyms": [
+            "descartes",
+            "Descartes Labs"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "demand matrix",
+          "synonyms": [
+            "demand",
+            "Demand Matrix"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "deloitte",
+          "synonyms": [
+            "Deloitte"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dell",
+          "synonyms": [
+            "DELL"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "deepmind",
+          "synonyms": [
+            "deep mind",
+            "DeepMind"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cummins",
+          "synonyms": [
+            "cummins india",
+            "Cummins"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cogniz",
+          "synonyms": [
+            "Cogniz Capital",
+            "Cogniz capital private limited",
+            "cogniz capital pvt ltd"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cloudera",
+          "synonyms": [
+            "Cloudera"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cisco",
+          "synonyms": [
+            "CISCO"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "capegemini",
+          "synonyms": [
+            "cape gemini",
+            "CapeGemini"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "boltzmann",
+          "synonyms": [
+            "BoltzMann Labs"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kelly services india",
+          "synonyms": [
+            "kelly",
+            "kelly services",
+            "Kelly Services India"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "maruti suzuki",
+          "synonyms": [
+            "maruti",
+            "suzuki",
+            "Maruti Suzuki"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mathworks",
+          "synonyms": [
+            "math works",
+            "MathWorks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "microsoft",
+          "synonyms": [
+            "Microsoft india"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "nissan",
+          "synonyms": [
+            "Nissan Motors",
+            "nissan india"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "oracle",
+          "synonyms": [
+            "Oracle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sap",
+          "synonyms": [
+            "SAP"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "siemens",
+          "synonyms": [
+            "siemens india",
+            "Siemens "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tronx motors",
+          "synonyms": [
+            "tronx",
+            "Tronx Motors"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "SAS institute",
+          "synonyms": [
+            "SAS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Absolut",
+          "synonyms": [
+            "Absolut Data",
+            "absolut"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Amazon",
+          "synonyms": [
+            "Amazon India",
+            "amazon"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Accenture",
+          "synonyms": [
+            "Accenture Analytics",
+            "accenture"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Responses",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "okay",
+          "synonyms": [
+            "ok",
+            "okie"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "Yeah",
+            "Yes",
+            "Yup",
+            "Yupp"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good",
+          "synonyms": [
+            "bad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "nice",
+          "synonyms": [
+            "great",
+            "amazing",
+            "fine"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "no",
+            "nope",
+            "nah",
+            "nahh"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Thank you",
+          "synonyms": [
+            "you are welcome",
+            "your welcome",
+            "You're welcome",
+            "no problem",
+            "np",
+            "anytime",
+            "no issues",
+            "Its my pleaseure",
+            "it's my pleasure"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Information",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "porassingh@gmail.com",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "richaraut@gmail.com",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "jahanvisingh@gmail.com",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "abhinavtalari@gmail.com",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phonenumber",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "@sys-number",
+          "patterns": [
+            "<?input.text.extract('^[^\\\\d]*[\\\\d]{11}[^\\\\d]*$',0)?>"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Techniques",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "patience",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "marketing idea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "honesty",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "enthusiasm",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "disciplined",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "determination",
+          "synonyms": [
+            "determined"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dedication",
+          "synonyms": [
+            "dedicate",
+            "dedicating"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "creative",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "versatility",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "trustworthy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "promotional plans",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "promoting",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "target audience",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "identifying",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "creating",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "choosing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "wisely",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "promotional methods",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sales funnel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "building relationships",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "business",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "through",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "emails and newsletter",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "through emails",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "respectful",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "numbers",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": [
+            "one",
+            "1 year",
+            "one year",
+            "in a week",
+            "one week",
+            "1 week"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1 month",
+          "synonyms": [
+            "in a month",
+            "month",
+            "more than a month",
+            "more than a month from now"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": [
+            "4 years",
+            "4 weeks",
+            "four weeks",
+            "four years"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": [
+            "2 weeks",
+            "two weeks",
+            "two years",
+            "2 years"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "6",
+          "synonyms": [
+            "six",
+            "six years",
+            "6 years",
+            "six weeks",
+            "6 weeks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": [
+            "three",
+            "three years",
+            "3 years",
+            "three weeks",
+            "3 weeks"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Professional",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ready",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "applicable",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "enthusiastic",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "fresher",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "people skills",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "past projects",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "strength",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "best",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "background",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "experience",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "skills",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "confident",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ready to get started",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "candidate",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "attracted to the company",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "position",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "passion for the job",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "passion",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "attracted",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Qualifications",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "MA",
+          "synonyms": [
+            "ma"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BA",
+          "synonyms": [
+            "ba"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "MS",
+          "synonyms": [
+            "ms"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "MCom",
+          "synonyms": [
+            "mcom",
+            "M com"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "MTech",
+          "synonyms": [
+            "mtech",
+            "M tech"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Btech",
+          "synonyms": [
+            "BTech",
+            "B Tech"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Undergraduate",
+          "synonyms": [
+            "Undergrad",
+            "Under Grad"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "High School",
+          "synonyms": [
+            "high school",
+            "highschool",
+            "12th"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BCom",
+          "synonyms": [
+            "Bcom",
+            "B Com"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BE",
+          "synonyms": [
+            "be"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Greetings",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "good morning",
+          "synonyms": [
+            "Good Morning",
+            "gm",
+            "gud morning",
+            "morning"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hi",
+          "synonyms": [
+            "hello",
+            "hey",
+            "holla"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good evening",
+          "synonyms": [
+            "gud evening",
+            "ge",
+            "Good evening",
+            "Evening"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief you a little about your job role."
+              },
+              {
+                "text": "Software developers have to do with the programs they work with and what they're trying to create. Web developers are mainly concerned with websites and web applications that run on internet browsers, while software developers are more focused on computer programs for desktop and mobile devices.\nSoftware developers mainly deal with both back-end and front-end, whereas, Web developers mainly deal with only front-end of any application/websites."
+              },
+              {
+                "text": "Did this sound interesting and informative for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies:cisco || @Companies:dell || @Companies:deloitte || @Companies:Amazon ||  @Job_Role:(Software developer) || @Job_Role:(Web developer)",
+      "dialog_node": "response_9_1594027274197",
+      "previous_sibling": "response_8_1594027270703"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief you a little about your role in the company."
+              },
+              {
+                "text": "As a Manager of the company, you are responsible for planning, directing and overseeing the operations and fiscal health of a business unit, division, department, or an operating unit within an organization. You are responsible for overseeing and leading the work of a group of people in many instances."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Does this sound interesting to you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies:wns || @Job_Role:Manager || @Companies:avaya || @Companies:kalyani || @Companies:capegemini || @Companies:ismt || @Companies:salesforce || @Companies:cummins || @Companies:zillow || @Companies:forbes",
+      "dialog_node": "response_7_1594027262470",
+      "previous_sibling": "response_2_1594027258279"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief you a little about your job role in the company."
+              },
+              {
+                "text": "As a DevOps Engineer, you are IT professionals who collaborate with software developers, system operators and other IT staff members to manage code releases. You cross and merge the barriers that exist between software development, testing and operations teams and keep existing networks in mind as they design, plan and test."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Responsibilities of DevOps Engineer",
+            "options": [
+              {
+                "label": "A DevOps Engineer is expected to test, build, design, deploy, and maintain continuous integration and continuous delivery processes using tools like Jenkins, Maven, Git, etc.",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "A DevOps Engineer must understand all the best tools and technologies, and when the time comes he/she should be able to choose the best one that best fits the business requirements.",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "A DevOps Engineer must possess the ability to automate, test, and deploy the code and monitor it.",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "A DevOps Engineer needs to work in close coordination with the development and operations teams such that the application is in line with the expected performance according to the customer’s requirement.",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Does this sound interesting to you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies:sap ||           @Job_Role:(devops engineer) || @Companies:google || @Companies:intuit ||  @Companies:(work day) || @Companies:autodesk",
+      "dialog_node": "response_9_1594027215297",
+      "previous_sibling": "response_8_1594025290757"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief a little about your role in the company."
+              },
+              {
+                "text": "As a Machine Learning Engineer, your responsibilities include designing and developing machine learning and deep learning systems. Running machine learning tests and experiments. Implementing appropriate ML algorithms. Machine learning engineers feed data into models defined by data scientists. They're also responsible for taking theoretical data science models and helping scale them out to production-level models that can handle terabytes of real-time data."
+              },
+              {
+                "text": "Machine learning engineers, design self-running software to automate predictive models. Each time the software performs an operation, it uses those results to carry out future operations with a greater degree of accuracy. This is how the software, or machine, “learns.”"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Does this sound interesting to you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies ||@Job_Role:(ML engineer)",
+      "dialog_node": "response_8_1594027270703",
+      "previous_sibling": "response_7_1594027262470"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief you a little about your job role in the company."
+              },
+              {
+                "text": "As a Finance/Sales person, your job is reviewing financial reports, monitoring accounts, and preparing activity reports and financial forecasts. Financial managers also investigate ways to improve profitability, and analyze markets for business opportunities, such as expansion, mergers or acquisitions."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Responsibilities of a Finance Person",
+            "options": [
+              {
+                "label": "Money out",
+                "value": {
+                  "input": {
+                    "text": "making payments and keeping the bills paid"
+                  }
+                }
+              },
+              {
+                "label": "Money in",
+                "value": {
+                  "input": {
+                    "text": "processing incoming payments"
+                  }
+                }
+              },
+              {
+                "label": "Payroll ",
+                "value": {
+                  "input": {
+                    "text": "make sure everyone gets paid (including the government)"
+                  }
+                }
+              },
+              {
+                "label": "Reporting ",
+                "value": {
+                  "input": {
+                    "text": "preparing financial reports, e.g. P&L, Balance sheets and budgets"
+                  }
+                }
+              },
+              {
+                "label": "Financial Controls ",
+                "value": {
+                  "input": {
+                    "text": "to avoid errors, fraud and theft"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Does this sound interesting to you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies:Goldmann || @Job_Role:Finance || @Companies:nissan || @Companies:Cogniz || @Companies:axis || @Companies:hdfc ||  @Companies:(tronx motors) || @Companies:(maruti suzuki)",
+      "dialog_node": "response_2_1594027254381",
+      "previous_sibling": "response_9_1594027215297"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief you a little about your role in the company."
+              },
+              {
+                "text": "As a HR or Talent Acquisition Head/Specialist , you have to coordinate with hiring managers to identify staffing needs. Determining selection criteria. Sourcing potential candidates through online channels (e.g. social platforms and professional networks.)\n\nAs a Public Relations Officer, you are responsible for developing PR strategies and campaigns. Preparing press releases, keynote speeches and promotional material. Building positive relationships with stakeholders, media and the public. Public relations (PR) is about managing reputation. A career in PR involves gaining understanding and support for your clients, as well as trying to influence opinion and behavior. You'll use all forms of media and communication to build, maintain and manage the reputation of your clients."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Responsibilities/Duties",
+            "options": [
+              {
+                "label": "Investigate and determine employee needs",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Develop a sustainable talent acquisition and hiring plans and strategies ",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Design, plan and execute employer branding activities",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Encourage employees to be brand ambassadors",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Plan employee referral programs",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Use Recruitment Marketing tools. Use sourcing methods for hard-to-fill roles",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Source and find candidates qualified for open positions",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "perform analysis of hiring needs and provide employee hiring forecast",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Design, plan and execute selection processes (conduct interviews and screening calls, administer psychological tests etc.)",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Reviews employment applications and background check reports.Find bottlenecks in the recruiting process. Suggest measures for improving employee retention ",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Does this sound interesting to you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies:(finserv 360) || @Job_Role:HR ||       @Companies:(john deere) ||     @Companies:(kelly services india) || @Companies:microsoft || @Companies:edelman || @Job_Role:(Public relations)",
+      "dialog_node": "response_2_1594027258279",
+      "previous_sibling": "response_2_1594027254381"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Let me brief you a little about your job role in the company."
+              },
+              {
+                "text": "As a Data Analyst, you should collect, organize and interpret statistical information to make it useful for a range of businesses and organizations, using data analysis tools. The meaningful results that you pull from the raw data will help your employers or clients to make important decisions by identifying various facts and trends."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Duties of Data Analyst",
+            "options": [
+              {
+                "label": "using advanced computerised models to extract the data needed",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "removing corrupted data",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "performing initial analysis to assess the quality of the data",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "performing further analysis to determine the meaning of the data",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "performing final analysis to provide additional data screening",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "preparing reports based on analysis and presenting to management",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Does this sound interesting to you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594023273132",
+      "conditions": "@Companies ||@Job_Role:(data analyst)",
+      "dialog_node": "response_8_1594025290757"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Do you currently live in Pune?\nIf not, would you like to relocate?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes, I live in Pune",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "No, I don't live in Pune",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Yes, I would like to relocate.",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "No, I don't want to relocate",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1594666008096",
+      "conditions": "@Information",
+      "dialog_node": "response_9_1594703400819",
+      "previous_sibling": "node_5_1594703681136"
+    },
+    {
+      "type": "standard",
+      "title": "Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sounds good! Lets move ahead with some more questions.\n\nHow many years of Work Experience do you have?(please mention in years)\n1.(0-3) years : Fresher\n2.(3-6) years : Mid-Level\n3.(6-9) years : Highly Experienced\n4. 10+ years  : Extremely Professional at Work"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1594666008096",
+      "conditions": "#Location || @Location",
+      "dialog_node": "node_5_1594703681136"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please could you repeat!!!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1594664684279",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1594664684427",
+      "previous_sibling": "handler_8_1594664684427"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1594664684279",
+      "context": {
+        "names": "@names"
+      },
+      "conditions": "@names",
+      "event_name": "input",
+      "dialog_node": "handler_8_1594664684427"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, I am there."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Anything else",
+      "conditions": "#Bot_Control_Confirm_Presence",
+      "dialog_node": "response_7_1594821009571",
+      "previous_sibling": "response_2_1593973007313"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "l Right! I will guide you again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Anything else",
+      "conditions": "#Bot_Control_Start_Over",
+      "dialog_node": "response_5_1594821037900",
+      "previous_sibling": "response_7_1594821009571"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't get you. Can you please rephrase it?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "Anything else",
+      "conditions": "#Bot_Control_Clarification",
+      "dialog_node": "response_2_1593973007313",
+      "previous_sibling": "response_8_1593972650714"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Got it"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "Anything else",
+      "conditions": "@Responses:okay || @Responses:nice || @Responses:yes || @Responses:good || anything_else",
+      "dialog_node": "response_8_1593972650714"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "Google",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "SAP",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Intuit",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Workday",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "AutoDesk",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:(devops engineer)",
+      "dialog_node": "response_9_1593971323814",
+      "previous_sibling": "response_3_1593969968657"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "Cisco",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Dell",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Deloitte",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Amazon",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:(Software developer) || @Job_Role:(Web developer)",
+      "dialog_node": "response_5_1593967804883",
+      "previous_sibling": "response_10_1593970765424"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "Xicom Technologies",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "AlescoData",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Aspen Technology",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Descartes Labs",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "SAS Institute",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "DeepMind",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Siemens",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "BigML",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Honeywell",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "MathWorks",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:(ML engineer) || @Job_Role:(systems engineer)",
+      "dialog_node": "response_3_1593974885844",
+      "previous_sibling": "response_8_1593973390219"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "John Deere",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Finserv360",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Kelly Services India",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Microsoft",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Edelman",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:HR || @Job_Role:(Public relations)",
+      "dialog_node": "response_8_1593973390219",
+      "previous_sibling": "response_9_1593971323814"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "WNS",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "AVAYA",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Kalyani Steels",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "CapeGemini",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "ISMT Private Limited(ISMT)",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "SalesForce",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Cummins India",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Zillow",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Forbes India",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:Manager",
+      "dialog_node": "response_8_1593975418790",
+      "previous_sibling": "response_3_1593974885844"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "Goldman Sachs",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Cogniz Capital Private Limited",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Axis Bank",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "HDFC Bank",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Tronx Motors",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Maruti Suzuki",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Nissan",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:(Sales Manager) || @Job_Role:Finance",
+      "dialog_node": "response_3_1593969968657",
+      "previous_sibling": "response_5_1593967804883"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Here are the companies that are currently available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Companies",
+            "options": [
+              {
+                "label": "Boltzmann Labs",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Demand Matrix",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Accenture Analytics",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Absolut Data",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Unmetric",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Oracle",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Cloudera",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "Which one are you most interested in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593967381296",
+      "conditions": "@Job_Role:(data analyst)",
+      "dialog_node": "response_10_1593970765424"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "disabled": true,
+      "dialog_node": "response_9_1593870586323"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Wonderful! You seem to have a very diverse interest.\nI am highly impressed with you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594807350716",
+      "conditions": "#Hobbies && @Hobbies",
+      "dialog_node": "response_4_1594811060195",
+      "previous_sibling": "response_1_1594807817685"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you have Any Questions for me?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594807350716",
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "response_7_1594811156212",
+      "previous_sibling": "response_4_1594811060195"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "So, tell me What do you like to do outside your work?\nAny specific hobbies/interests"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1594807350716",
+      "conditions": "@Responses",
+      "dialog_node": "response_1_1594807817685"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Excellent! Its my pleasure to be at your service.\nWhen would you like to join/will be able to start, if offered a position.\n1.(0-2) weeks\n2.(2-4)weeks\n3. More than a month from now\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594815472357",
+      "conditions": "@Responses:good && #General_Positive_Feedback",
+      "dialog_node": "response_2_1594815959750",
+      "previous_sibling": "response_2_1594815817748"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am so sorry if you felt like that.\nI will try my best next time, to please you and be better at my service."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594815472357",
+      "conditions": "#General_Negative_Feedback",
+      "dialog_node": "response_9_1594816291902",
+      "previous_sibling": "response_2_1594815959750"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We have almost come to the end of our conversation.\nSo, tell me How was your overall experience?(good/bad)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594815472357",
+      "conditions": "@Responses",
+      "dialog_node": "response_2_1594815817748",
+      "previous_sibling": "response_3_1594815555589"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's Great! I will surely follow it henceforth.\nThanks a ton!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594815472357",
+      "conditions": "#Techniques",
+      "dialog_node": "response_3_1594815555589",
+      "previous_sibling": "response_4_1594815537803"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What's something you can teach me?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594815472357",
+      "conditions": "@Responses",
+      "dialog_node": "response_4_1594815537803"
+    },
+    {
+      "type": "standard",
+      "title": "Qualifications",
+      "parent": "node_5_1594782973827",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Qualifications || @Techniques",
+      "dialog_node": "node_10_1594784461132"
+    },
+    {
+      "type": "standard",
+      "title": "Qualifications",
+      "output": {
+        "generic": [
+          {
+            "title": "Please may I know what is your Highest Educational Degree completed?",
+            "options": [
+              {
+                "label": "High School- 12th",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Undergraduate-BTech/BA/BCom/BA",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Masters Degree-MTech/MA/MCom/MS",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1594782457852",
+      "conditions": "#Responses && @Responses:yes || @Responses:okay",
+      "dialog_node": "node_5_1594782973827"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am so sorry I could not help you find the Right Job for your Profile. But its my deep regret to inform you that the Company won't compromise with the salary, as its their policy \"No Bargaining/Settlements Allowed\".\nHope to see you here again, the next time you apply for a Job Role of your Choice !!!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1594817561641",
+      "conditions": "@Responses:No",
+      "dialog_node": "response_1_1594817912566",
+      "previous_sibling": "response_6_1594817584261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks, for your Response. Its my pleasure to be of help to you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1594817561641",
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "response_2_1594818246530",
+      "previous_sibling": "response_1_1594817912566"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am so sorry for your response/reaction. I will try to be better next time and be of much more help to you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1594817561641",
+      "conditions": "#General_Negative_Feedback",
+      "dialog_node": "response_9_1594818580856",
+      "previous_sibling": "response_2_1594818246530"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Thank You! Nice to speak to you.",
+            "source": "https://lh3.googleusercontent.com/proxy/LI0XXjgA1fAfL13vo41RchJnljEZXdzw2xmcZO-WS-IQZijF-Tgkm8GgIw_PfR_FZNASYPc7_390rEYCVCE9qFuJcQkxM5I",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_5_1594817561641",
+      "conditions": "#General_Ending",
+      "dialog_node": "response_10_1594818664129",
+      "previous_sibling": "response_9_1594818580856"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Wonderful! You are qualified for this role, $names.\nYour Offer Letter shall be mailed to you, by the Company/Organisation on the email-id provided by you.\nCheers! It will be great to have you On-Board with the Company.\nIts my pleasure to help you find the Right Job for your Profile."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1594817561641",
+      "conditions": "@Responses:yes || $names",
+      "dialog_node": "response_6_1594817584261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright, Sounds something interesting and unique to me!!!!\nNow, tell me are you working on a personal project? If so, what is it about?\nWhat kind of Research are you doing?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594802599448",
+      "conditions": "#Situations && @Situations",
+      "dialog_node": "response_7_1594802632619",
+      "previous_sibling": "node_2_1594803923267"
+    },
+    {
+      "type": "standard",
+      "title": "Projects",
+      "parent": "node_4_1594802599448",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Responses",
+      "dialog_node": "node_2_1594803923267"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1594664617029",
+      "variable": "$names",
+      "dialog_node": "slot_4_1594664684279",
+      "previous_sibling": "node_5_1594666008096"
+    },
+    {
+      "type": "standard",
+      "title": "Email",
+      "parent": "node_1_1594664617029",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Information",
+      "dialog_node": "node_5_1594666008096"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Sounds interesting.\nLets move forward. Why should I hire you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594794082846",
+      "conditions": "#Professional || #Techniques || @Techniques || @Professional",
+      "dialog_node": "response_10_1594794918341",
+      "previous_sibling": "node_4_1594802599448"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good! Now, tell me- What is your Biggest Professional Achievement?"
+              },
+              {
+                "text": "Alright that's very good!!!\n\"Tell me about a challenge, you experienced at your last company ,if any, or your latest internship.\"\nHow did you deal with this situation?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1594794082846",
+      "conditions": "#Techniques && @Professional",
+      "dialog_node": "response_9_1594795215009",
+      "previous_sibling": "response_10_1594794918341"
+    },
+    {
+      "type": "standard",
+      "title": "Situations",
+      "parent": "node_4_1594794082846",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Situations",
+      "dialog_node": "node_4_1594802599448"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Awesome! That sounds interesting to me.\n\"Tell me a little about yourself\" like your hobbies or What do you like to do outside work?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594784461132",
+      "conditions": "#Techniques || @Techniques",
+      "dialog_node": "response_10_1594787456026",
+      "previous_sibling": "response_4_1594784529296"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Excellent, that works! What are your Preferred Techniques/Skills to generate your own leads?\nor What you consider your Strengths to be?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1594784461132",
+      "conditions": "@Qualifications",
+      "dialog_node": "response_4_1594784529296"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let's talk about your Pay Package/ Pre-Placement Offer(PPO), if you don't mind.\nThe company is willing to pay you 30lacs per annum along with incentives. Bonus will be given after viewing your performance at work.\nIs that okay with you?(yes/no)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1594815464043",
+      "conditions": "@Responses",
+      "dialog_node": "response_7_1594817044982",
+      "previous_sibling": "response_10_1594816889491"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That works for us! Hope to see you in @sys-number of weeks."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1594815464043",
+      "conditions": "#number && @numbers && @sys-number",
+      "dialog_node": "response_10_1594816889491",
+      "previous_sibling": "node_5_1594817561641"
+    },
+    {
+      "type": "standard",
+      "title": "Final",
+      "parent": "node_8_1594815464043",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Responses",
+      "dialog_node": "node_5_1594817561641"
+    },
+    {
+      "type": "frame",
+      "title": "Introduction",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to speak to you, $names. What's your email-id?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1593976762003",
+      "conditions": "@names",
+      "dialog_node": "node_1_1594664617029"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Its Alright! Not an issue."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594803923267",
+      "conditions": "@Responses:No",
+      "dialog_node": "response_9_1594806975686",
+      "previous_sibling": "response_8_1594803969515"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's Great! you have a vast knowledge in your field/domain.\nHope to See You Use it in the Company, you have chosen."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594803923267",
+      "conditions": "@Responses:yes && @Projects",
+      "dialog_node": "response_8_1594803969515"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your Hiring Manager has good Critical thinking skills, he is collaborative, supportive and encourages and embraces his new as well as old employees as well. Treats everyone at the workspace equally, he is not bias at all. He has good leadership skills, hence his team is currently one of the best and the happiest in the company.\nHe has a very creative mind or thought process as you can say. He has good time management skills, hence he likes him employees to be the same( punctual and disciplined) just like him. He likes those employees who follow his rules and footsteps. He has a good customer service experience on his record."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594812243138",
+      "conditions": "@User_Questions:tell",
+      "dialog_node": "response_4_1594814721149",
+      "previous_sibling": "response_4_1594814641120"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Its just been a month since this job role profile has been open. As the recruiters are looking for a suitable candidate for this profile."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594812243138",
+      "conditions": "@User_Questions:(position open)",
+      "dialog_node": "response_2_1594814522758",
+      "previous_sibling": "response_8_1594813849298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The 3 or 4 most important skills, a candidate should possess to be selected for this job role is : \n1. well-balanced personality\n2. versatile nature\n3. disciplined.\n4. good communication skills.\n5. loyal at work\n6.practical thinker"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594812243138",
+      "conditions": "@User_Questions:(3 or 4)",
+      "dialog_node": "response_1_1594815167378",
+      "previous_sibling": "response_4_1594814721149"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is a newly created job profile for the company you have chosen.\nI hope that answers your question."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594812243138",
+      "conditions": "@User_Questions:(position backfill)",
+      "dialog_node": "response_4_1594814641120",
+      "previous_sibling": "response_2_1594814522758"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "“You have to be a place that’s more than a pay check for people.”\n                             – Rick Fererico\n1. Positive Company Culture\n2. Gender Neutrality\n3. low Employee Turnover\n4. Smiles and Laughs always\n5. Sense of Job Security\n6. No Gossiping Allowed.\n7. It is not 'just a job' culture\n8.Employees are Energised.\n9.Embracing New Ideas\n10. Colleagues as well as Manager is very friendly and supportive. Encourages new employees."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1594812243138",
+      "conditions": "@User_Questions:workspace",
+      "dialog_node": "response_8_1594813849298",
+      "previous_sibling": "node_10_1594815472357"
+    },
+    {
+      "type": "standard",
+      "title": "User",
+      "parent": "node_2_1594812243138",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Responses",
+      "dialog_node": "node_10_1594815472357"
+    },
+    {
+      "type": "standard",
+      "title": "Personal_Details",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great! Lets begin with your introduction.          \nPlease may I know your Legal Name as on documents and certificates?                                                                                                                                                                                                         "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@Responses:yes",
+      "dialog_node": "node_3_1593976762003",
+      "previous_sibling": "node_10_1594023273132"
+    },
+    {
+      "type": "standard",
+      "title": "Job_description",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Companies || @Job_Role",
+      "dialog_node": "node_10_1594023273132",
+      "previous_sibling": "node_7_1593967381296"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How can I help you?"
+              },
+              {
+                "text": "What kind of job role are you looking for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Greetings || #General_Greetings",
+      "dialog_node": "node_10_1593870978062",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "User_Questions",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#User_Questions",
+      "dialog_node": "node_2_1594812243138",
+      "previous_sibling": "node_1_1594807350716"
+    },
+    {
+      "type": "standard",
+      "title": "Professional",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Techniques || #Professional",
+      "dialog_node": "node_4_1594794082846",
+      "previous_sibling": "node_9_1594782457852"
+    },
+    {
+      "type": "standard",
+      "title": "Random_Questions",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Responses",
+      "dialog_node": "node_1_1594807350716",
+      "previous_sibling": "node_4_1594794082846"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Responses",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_8_1594815464043",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Education",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That is an amazing @sys-number years of work experience!\nLets move ahead!"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#number && @sys-number",
+      "dialog_node": "node_9_1594782457852",
+      "previous_sibling": "node_3_1593976762003"
+    },
+    {
+      "type": "standard",
+      "title": "Job_Role",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Job_Role",
+      "dialog_node": "node_7_1593967381296",
+      "previous_sibling": "node_10_1593870978062"
+    },
+    {
+      "type": "standard",
+      "title": "Final_Placement",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#number",
+      "dialog_node": "node_8_1594815464043",
+      "previous_sibling": "node_2_1594812243138"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there! I am ACE from ACE.AI.With AI-enabled sourcing, we source strong and passive candidates within seconds of an open job requisition!\n I can help you find the right companies."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Recruitment",
+  "language": "en",
+  "description": ""
+}
