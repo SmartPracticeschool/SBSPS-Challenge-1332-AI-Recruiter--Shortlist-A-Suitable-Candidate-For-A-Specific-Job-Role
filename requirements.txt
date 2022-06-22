@@ -13,7 +13,7 @@ idna==2.9
 joblib==0.15.1
 murmurhash==1.0.2
 nltk==3.5
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pdfminer.six==20200517
 plac==1.1.3
